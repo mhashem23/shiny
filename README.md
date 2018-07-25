@@ -1,3 +1,3 @@
 # shiny
 
-http://127.0.0.1:4152/
+https://mhashem.shinyapps.io/shiny_project_plz/
